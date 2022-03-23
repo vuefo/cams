@@ -25,7 +25,7 @@ chdir "$ENV{'HOME'}/cams";
 
 chomp (my $INFO = `date`);
 my $cmd=qq[    convert /tmp/vv.jpg -font Fantasque-Sans-Mono-Regular \\
-    -pointsize 60 -resize 1600x1200 -draw "gravity northwest \\
+    -pointsize 50 -resize 1600x1200 -draw "gravity northwest \\
     translate 20,0 \\
     fill seashell2  text 0,12 '$INFO' \\
     fill seashell4  text 3,10 '$INFO' " \\
