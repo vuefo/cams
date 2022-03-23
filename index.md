@@ -1,4 +1,4 @@
-## FULL || EMPTY
+## FULL v EMPTY
 ### [hoodoo, or](https://skihoodoo.com/events/) (main lot)
 ![cam image](https://www.santiampassskipatrol.org/wx/weather12.jpg)
 ### [mountain creek, nj](https://www.mountaincreek.com/activities-events/event-calendar) (north lot)
